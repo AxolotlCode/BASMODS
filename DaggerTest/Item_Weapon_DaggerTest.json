@@ -281,6 +281,11 @@
       "$type": "ThunderRoad.ItemData+ColliderGroup, ThunderRoad",
       "transformName": "Blades",
       "colliderGroupId": "BladeDagger"
+    },
+    {
+      "$type": "ThunderRoad.ItemData+ColliderGroup, ThunderRoad",
+      "transformName": "Handle",
+      "colliderGroupId": "BladeMace"
     }
   ],
   "damagers": [
